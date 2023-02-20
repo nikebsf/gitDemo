@@ -1,0 +1,22 @@
+package com.rbc.qa.testcases;
+import java.util.HashMap;
+
+public class test {
+	
+	public static void main(String[] args) {
+		
+		
+		HashMap<String, String> hm = new HashMap<String, String>();
+		
+		hm.put("Nikunj", "patel");
+		hm.put("Jay", "patel");
+		hm.put("Harsh", "patel");
+		hm.put("Om", "patel");
+		
+		System.out.println(hm);
+		
+		System.out.println(hm.get("Om"));
+		
+		System.out.println(hm.size());
+	}
+}
