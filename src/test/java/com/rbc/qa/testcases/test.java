@@ -14,6 +14,7 @@ public class test {
 		hm.put("Jay", "patel");
 		hm.put("Harsh", "patel");
 		hm.put("Om", "patel");
+		hm.put("Meet", "patel");
 		
 		System.out.println(hm);
 		
