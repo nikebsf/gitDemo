@@ -21,6 +21,8 @@ public class test {
 		hm.put("Meet", "patel");
 		
 		System.out.println("GitDemo push pull");
+		
+		System.out.println("GitDemo push pull from architect y");
 		System.out.println(hm);
 		
 		System.out.println(hm.get("Om"));
