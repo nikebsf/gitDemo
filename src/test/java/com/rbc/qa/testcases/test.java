@@ -1,8 +1,6 @@
 package com.rbc.qa.testcases;
 import java.util.HashMap;
 
-// cloned from git
-
 public class test {
 	
 	public static void main(String[] args) {
