@@ -16,6 +16,13 @@ public class test {
 		hm.put("Om", "patel");
 		hm.put("Meet", "patel");
 		
+		hm.put("Nikunj", "patel");
+		hm.put("Jay", "patel");
+		hm.put("Harsh", "patel");
+		hm.put("Om", "patel");
+		hm.put("Meet", "patel");
+		
+		System.out.println("GitDemo push pull");
 		System.out.println(hm);
 		
 		System.out.println(hm.get("Om"));
